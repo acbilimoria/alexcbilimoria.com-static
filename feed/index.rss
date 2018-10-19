@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Alex C Bilimoria</title>
+	<atom:link href="https://alexcbilimoria.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alexcbilimoria.com</link>
+	<description>Autodidact &#124; Software Engineer</description>
+	<lastBuildDate>Fri, 05 Oct 2018 03:14:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">148906090</site>	<item>
+		<title>Chaos Engineer: Building Confidence in System Behavior through Experiments</title>
+		<link>https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/</link>
+		<comments>https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/#respond</comments>
+		<pubDate>Fri, 05 Oct 2018 03:14:58 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Quick Summary: This was a good (and brief) introduction to Chaos Engineering by some top-notch software engineers. It was quick and easy to read, and the book contains some nice case studies. Book Notes: &#8211; Using Chaos Engineering may be as simple as manually running kill -9 on a box inside of your staging environment &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/" class="more-link">Continue reading<span class="screen-reader-text"> "Chaos Engineer: Building Confidence in System Behavior through Experiments"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/">Chaos Engineer: Building Confidence in System Behavior through Experiments</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Quick Summary:  This was a good (and brief) introduction to Chaos Engineering by some top-notch software engineers.  It was quick and easy to read, and the book contains some nice case studies.</p>
+<p>Book Notes:</p>
+<p>&#8211; Using Chaos Engineering may be as simple as manually running kill -9 on a box inside of your staging environment to simulate failure of a service.</p>
+<p>&#8211; Failure testing breaks a system in some preconceived way, but doesn’t explore the wide open field of weird, unpredictable things that could happen.</p>
+<p>&#8211; In testing, an assertion is made: given specific conditions, a system will emit a specific output. Tests are typically binary, and determine whether a property is true or false. Strictly speaking, this does not generate new knowledge about the system, it just assigns valence to a known property of it.</p>
+<p>&#8211; Chaos Engineering is a form of experimentation that generates new knowledge about the system.</p>
+<p>&#8211; Complexity is a challenge and an opportunity for engineers.</p>
+<p>&#8211; Any organization that designs a system (defined broadly) will inevitably produce a design whose structure is a copy of the organization’s communication structure. &#8211; Melvin Conway, 1967</p>
+<p>&#8211; The performance of complex systems is typically optimized at the edge of chaos, just before system behavior will become unrecognizably turbulent. &#8211; Sidney Dekker, Drift Into Failure</p>
+<p>&#8211; In our field, the idea of doing software verification in a production environment is generally met with derision. “We’ll test it in prod” is a form of gallows humor, which translates to “we aren’t going to bother verifying this code properly before we deploy it.”</p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/">Chaos Engineer: Building Confidence in System Behavior through Experiments</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">170</post-id>	</item>
+		<item>
+		<title>Assorted Links</title>
+		<link>https://alexcbilimoria.com/2018/08/16/assorted-links-11/</link>
+		<comments>https://alexcbilimoria.com/2018/08/16/assorted-links-11/#respond</comments>
+		<pubDate>Thu, 16 Aug 2018 03:15:41 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Once you start looking for metaphorical cheap shower curtains, they&#8217;re everywhere. Highly recommended. Sara Blakely: Start Small, Think Big, Scale Fast Overcoming the plague of perfectionism A lot of people hate open offices. I&#8217;m okay with them, FWIW. Start small.</p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/16/assorted-links-11/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="https://seths.blog/2018/07/cheap-shower-curtains/" rel="noopener" target="_blank">Once you start looking for metaphorical cheap shower curtains, they&#8217;re everywhere.</a> Highly recommended.</li>
+<li><a href="https://www.gsb.stanford.edu/insights/sara-blakely-start-small-think-big-scale-fast" rel="noopener" target="_blank">Sara Blakely: Start Small, Think Big, Scale Fast</a></li>
+<li><a href="https://medium.com/swlh/how-every-decision-you-make-is-wrong-ab6d1b71ab0e" rel="noopener" target="_blank">Overcoming the plague of perfectionism</a></li>
+<li><a href="https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3" rel="noopener" target="_blank">A lot of people hate open offices.  I&#8217;m okay with them, FWIW.</a></li>
+<li><a href="http://pointsandfigures.com/2018/07/15/market-segmentation-works/" rel="noopener" target="_blank">Start small.</a></li>
+</ol>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/16/assorted-links-11/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/16/assorted-links-11/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">160</post-id>	</item>
+		<item>
+		<title>Assorted Links</title>
+		<link>https://alexcbilimoria.com/2018/08/15/assorted-links-10/</link>
+		<comments>https://alexcbilimoria.com/2018/08/15/assorted-links-10/#respond</comments>
+		<pubDate>Wed, 15 Aug 2018 07:15:47 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Nobody Cares. How comforting If I were a teacher, I would ban phones in my class Change your food &#8211; change your mind &#8211; change your life The self-driving future is almost here Has software engineering become more effective? It is hard to tell.</p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/15/assorted-links-10/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="https://florentcrivello.com/index.php/2018/05/20/nobody-cares/" rel="noopener" target="_blank">Nobody Cares.  How comforting</a></li>
+<li><a href="https://www.engadget.com/2018/08/01/france-bans-smartphones-schools/" rel="noopener" target="_blank">If I were a teacher, I would ban phones in my class</a></li>
+<li><a href="https://blogs.scientificamerican.com/observations/can-what-you-eat-affect-your-mood/" rel="noopener" target="_blank">Change your food &#8211; change your mind &#8211; change your life</a></li>
+<li><a href="https://www.bloomberg.com/news/features/2018-07-31/inside-the-life-of-waymo-s-driverless-test-family" rel="noopener" target="_blank">The self-driving future is almost here</a></li>
+<li><a href="https://seths.blog/2018/07/our-engineering-ratchet/" rel="noopener" target="_blank">Has software engineering become more effective?  It is hard to tell.</a></li>
+</ol>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/15/assorted-links-10/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/15/assorted-links-10/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">157</post-id>	</item>
+		<item>
+		<title>Genetic testing and YOU</title>
+		<link>https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/</link>
+		<comments>https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/#respond</comments>
+		<pubDate>Wed, 15 Aug 2018 03:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Genetic testing is risky because, in the United States, we can be denied life insurance and disability insurance based on the results of a genetic test. The fact that genetic testing can be used to deny coverage or raise premiums adds an additional layer of complexity to each individual&#8217;s decision tree. My hot take? Avoid &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/" class="more-link">Continue reading<span class="screen-reader-text"> "Genetic testing and YOU"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/">Genetic testing and YOU</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Genetic testing is risky because, in the United States, we can be denied life insurance and disability insurance based on the results of a genetic test.</p>
+<p>The fact that genetic testing can be used to deny coverage or raise premiums adds an additional layer of complexity to each individual&#8217;s decision tree.  </p>
+<p>My hot take?  Avoid genetic testing unless you absolutely need it.  No genetic testing &#8220;just for fun.&#8221;  That should solve the problem for the vast majority of people.  (Note that I&#8217;m writing this from 2018, a time when genetic testing appears to be more often &#8220;just for fun&#8221; than medically prudent or necessary.)</p>
+<p>If you do need genetic testing, get your insurance first.  You can always lower your rates later if your test results are favorable.</p>
+<blockquote><p>Unfortunately after carefully reviewing your application, we regret that we are unable to provide you with coverage because of your positive BRCA 1 gene.</p></blockquote>
+<p>&#8212; <a href="https://www.fastcompany.com/3055710/if-you-want-life-insurance-think-twice-before-getting-genetic-testing" rel="noopener" target="_blank">https://www.fastcompany.com/3055710/if-you-want-life-insurance-think-twice-before-getting-genetic-testing</a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/">Genetic testing and YOU</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">150</post-id>	</item>
+		<item>
+		<title>Code is antifragile</title>
+		<link>https://alexcbilimoria.com/2018/08/14/code-is-antifragile/</link>
+		<comments>https://alexcbilimoria.com/2018/08/14/code-is-antifragile/#respond</comments>
+		<pubDate>Tue, 14 Aug 2018 07:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>I am a huge fan of Nassim Nicholas Taleb. I think he will go down in history as one of the greatest thinkers of all time. His books will be relevant and important in one hundred years, the true test. Anyway, code is antifragile. Specifically, actively maintained code is antifragile. Code that is used is &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/14/code-is-antifragile/" class="more-link">Continue reading<span class="screen-reader-text"> "Code is antifragile"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/14/code-is-antifragile/">Code is antifragile</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I am a huge fan of Nassim Nicholas Taleb.  I think he will go down in history as one of the greatest thinkers of all time.  His books will be relevant and important in one hundred years, the true test.</p>
+<p>Anyway, code is antifragile.  Specifically, actively maintained code is antifragile.  Code that is used is antifragile.  Antifragile code is crusty and old.  Good-looking, untouched, unused code is fragile.  It strikes me as unfortunate that many software engineers want to throw away the ugly, crusty code and build something new and pretty.  Oftentimes that is a grave business mistake.</p>
+<p><a href="https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&#038;qid=1534219432&#038;sr=8-1&#038;keywords=antifragile" rel="noopener" target="_blank">Antifragile: Things That Gain from Disorder:</a></p>
+<blockquote><p>Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors and love adventure, risk, and uncertainty. Yet, in spite of the ubiquity of the phenomenon, there is no word for the exact opposite of fragile. Let us call it antifragile. Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better. This property is behind everything that has changed with time: evolution, culture, ideas, revolutions, political systems, technological innovation, cultural and economic success, corporate survival, good recipes (say, chicken soup or steak tartare with a drop of cognac), the rise of cities, cultures, legal systems, equatorial forests, bacterial resistance … even our own existence as a species on this planet. And antifragility determines the boundary between what is living and organic (or complex), say, the human body, and what is inert, say, a physical object like the stapler on your desk.</p>
+<p>The antifragile loves randomness and uncertainty, which also means— crucially—a love of errors, a certain class of errors. Antifragility has a singular property of allowing us to deal with the unknown, to do things without understanding them— and do them well. Let me be more aggressive: we are largely better at doing than we are at thinking, thanks to antifragility. I’d rather be dumb and antifragile than extremely smart and fragile, any time.</p>
+<p>It is easy to see things around us that like a measure of stressors and volatility: economic systems, your body, your nutrition (diabetes and many similar modern ailments seem to be associated with a lack of randomness in feeding and the absence of the stressor of occasional starvation), your psyche. There are even financial contracts that are antifragile: they are explicitly designed to benefit from market volatility.</p>
+<p>Antifragility makes us understand fragility better. Just as we cannot improve health without reducing disease, or increase wealth without first decreasing losses, antifragility and fragility are degrees on a spectrum.</p></blockquote>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/14/code-is-antifragile/">Code is antifragile</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/14/code-is-antifragile/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">147</post-id>	</item>
+		<item>
+		<title>Assorted Links</title>
+		<link>https://alexcbilimoria.com/2018/08/14/assorted-links-9/</link>
+		<comments>https://alexcbilimoria.com/2018/08/14/assorted-links-9/#respond</comments>
+		<pubDate>Tue, 14 Aug 2018 03:14:08 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Socratic unruliness Segment handles a lot of data Present information compellingly</p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/14/assorted-links-9/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="http://angryrainbowmermaids.blogspot.com/2018/08/unruliness.html" rel="noopener" target="_blank">Socratic unruliness</a></li>
+<li><a href="https://segment.com/blog/why-status-codes-matter-in-data-delivery/" rel="noopener" target="_blank">Segment handles a lot of data</a></li>
+<li><a href="https://www.enchantingmarketing.com/explanatory-writing/" rel="noopener" target="_blank">Present information compellingly</a></li>
+</ol>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/14/assorted-links-9/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/14/assorted-links-9/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">143</post-id>	</item>
+		<item>
+		<title>Ignore the bright and shiny objects</title>
+		<link>https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/</link>
+		<comments>https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/#respond</comments>
+		<pubDate>Sat, 11 Aug 2018 17:51:25 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>I don’t think Mosquito Week would have the same cache as Shark Week but humans are far more likely to die from a tiny mosquito bite than a reenactment of Jaws. Lightning kills about 46 people a year while deer that cause accidents kill another 150 or so. More than 300 people drown in the &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/" class="more-link">Continue reading<span class="screen-reader-text"> "Ignore the bright and shiny objects"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/">Ignore the bright and shiny objects</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<blockquote><p>I don’t think Mosquito Week would have the same cache as Shark Week but humans are far more likely to die from a tiny mosquito bite than a reenactment of Jaws.</p>
+<p>Lightning kills about 46 people a year while deer that cause accidents kill another 150 or so. More than 300 people drown in the bathtub every year.</p>
+<p>But these higher probability risks don’t make for a very compelling story so people spend all their time worrying about the low probability risks that they read about in the headlines.</p>
+<p>I could really tie up this analogy into a neat bow if only there was a place where people misperceive the risks involved. Where they become swayed by scary narratives, headlines, and graphics instead of paying attention to the evidence, probabilities, and statistics. A place where people fall prey to the constant drumbeat of scare-tactics, noise, and clickbait to make decisions.</p>
+<p>Wait — that’s the stock market.</p></blockquote>
+<p>&#8211; <a href="http://awealthofcommonsense.com/2018/07/theres-no-such-thing-as-mosquito-week/" rel="noopener" target="_blank">http://awealthofcommonsense.com/2018/07/theres-no-such-thing-as-mosquito-week/</a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/">Ignore the bright and shiny objects</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">135</post-id>	</item>
+		<item>
+		<title>Value investors are missing one key skill</title>
+		<link>https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/</link>
+		<comments>https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/#respond</comments>
+		<pubDate>Sat, 11 Aug 2018 17:30:21 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>David Einhorn: Hedge fund&#8217;s performance &#8216;far worse than we could have imagined&#8217; Value investors and short sellers don&#8217;t seem to understand persuasion. David Einhorn has a big problem. David Einhorn made public bets against Tesla and Elon Musk. Why is it so wrong to bet against Elon Musk? Because Elon Musk is a master persuader. &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/" class="more-link">Continue reading<span class="screen-reader-text"> "Value investors are missing one key skill"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/">Value investors are missing one key skill</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.cnbc.com/2018/07/31/david-einhorns-greenlight-capital-says-fund-is-down-18percent-this-year-aft.html" rel="noopener" target="_blank">David Einhorn: Hedge fund&#8217;s performance &#8216;far worse than we could have imagined&#8217;</a></p>
+<p>Value investors and short sellers don&#8217;t seem to understand persuasion.</p>
+<p>David Einhorn has a big problem.  David Einhorn made public bets against Tesla and Elon Musk.</p>
+<p>Why is it so wrong to bet against Elon Musk?  Because Elon Musk is a master persuader.  Elon Musk changes reality through the force of his will.</p>
+<p>Never bet against someone with a Steve-Jobs-esque reality distortion field.</p>
+<p>It struck me that I used to think a lot like David Einhorn.  And I still have sympathy for that mindset.  Because by many rational yardsticks, Tesla doesn&#8217;t make sense.  If you only know valuation, it makes sense to bet against Tesla.  Let&#8217;s explore this.</p>
+<p>Here are two facts.  Which is more important?</p>
+<ol>
+<li>Elon Musk can use his persuasion skills to get money and attention at will.</li>
+<li>Tesla has real problems.</li>
+</ol>
+<h2>The Value Investing Years</h2>
+<p>I was self-employed throughout most of my 20s.  I read hundreds of books, financial reports, academic journals, and everything else I could find.  It was a blast.  This might surprise you, but value investors also spend a lot of time studying psychology.  </p>
+<p>People get irrational and emotional when it comes to money.  As value investors, we train themselves to be kind of robotic about the whole thing.  Being rational about money is a superpower.  (I&#8217;ll come back to that later.)</p>
+<p>When it comes to managing money, you want a Spock and not a Kirk.</p>
+<p>So I spent a decade studying financial analysis, psychology, economics, marketing, and other important fields that touch the business cycle in one way or another.</p>
+<p>As the market went up and up, value investing got less and less exciting.  So I made some new hobbies.</p>
+<h2>The power of persuasion</h2>
+<p>I noticed a pattern.  You might have noticed it as well.  </p>
+<p>Some companies and some people inspire a cult-like following.</p>
+<p>These master persuaders are highly skilled at moving people.  Call it sales, call it persuasion, call it manipulation.  They move people.</p>
+<p>Think about Apple.  Think about Tesla and Elon Musk.  Think about Amazon.</p>
+<p>And Disney!  I used to live in Orlando.  People would make their whole lives about Disney, totally consumed by the fantasy.</p>
+<p>I used to think &#8220;Why would anyone pay 3x for an Apple when an Android will do?&#8221;  (I still think iPhones are overpriced, but that&#8217;s another story.)</p>
+<p>With persuasion in your toolkit, you can see that Apple will never lower their prices.  Premium prices equal premium brand.  Someone at Apple would have to be idiotic to give that up.  They aren&#8217;t going to sell iPhones for $99 a pop at the local gas station.</p>
+<p>Now that I understand the importance and the power of persuasion I would never bet against a persuader.  Elon Musk is a master persuader.</p>
+<p>David Einhorn is in big trouble.</p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/">Value investors are missing one key skill</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">129</post-id>	</item>
+		<item>
+		<title>Assorted Links</title>
+		<link>https://alexcbilimoria.com/2018/08/11/assorted-links-8/</link>
+		<comments>https://alexcbilimoria.com/2018/08/11/assorted-links-8/#respond</comments>
+		<pubDate>Sat, 11 Aug 2018 02:18:34 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>The average holding period for a security on the New York Stock Exchange has fallen from two months in 2008 to just under 20 seconds today/li> Monetize your social media followers in the junk bond market Boom time economics Personality traits to cultivate to maximize your income: high conscientiousness, high extraversion, and low agreeableness. How &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/11/assorted-links-8/" class="more-link">Continue reading<span class="screen-reader-text"> "Assorted Links"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/assorted-links-8/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="https://www.ft.com/content/cdbdd01a-95b4-11e8-95f8-8640db9060a7" rel="noopener" target="_blank">The average holding period for a security on the New York Stock Exchange has fallen from two months in 2008 to just under 20 seconds today</a>/li>
+<li><a href="https://www.bloomberg.com/news/articles/2018-08-10/credit-market-s-eyeball-valuations-raise-investors-eyebrows" rel="noopener" target="_blank">Monetize your social media followers in the junk bond market</a></li>
+<li><a href="http://thereformedbroker.com/2018/08/10/if-youre-a-seller-sell-now-if-youre-a-buyer-wait/" rel="noopener" target="_blank">Boom time economics</a></li>
+<li><a href="https://www.bloomberg.com/view/articles/2018-08-09/personality-affects-pay-extroverts-earn-more-than-introverts" rel="noopener" target="_blank">Personality traits to cultivate to maximize your income:  high conscientiousness, high extraversion, and low agreeableness.</a></li>
+<li><a href="https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a" rel="noopener" target="_blank">How Netflix detects credential compromise in AWS</a></li>
+</ol>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/11/assorted-links-8/">Assorted Links</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/11/assorted-links-8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">125</post-id>	</item>
+		<item>
+		<title>Highlights from the Teck Resources Limited Earnings Call Transcript</title>
+		<link>https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/</link>
+		<comments>https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/#respond</comments>
+		<pubDate>Fri, 10 Aug 2018 06:20:49 +0000</pubDate>
+		<dc:creator><![CDATA[acbilimoria]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://alexcbilimoria.com/</guid>
+		<description><![CDATA[<p>Teck Resources (TECK), based in Canada, might be the best resources company in the world. They just had a record-setting quarter, and they are making a ton of money. Here are some unedited snippets from their latest earnings call: Record first half for Teck. Fort Hills oil sands achieved commercial production. we expect to receive &#8230; </p>
+<p class="link-more"><a href="https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/" class="more-link">Continue reading<span class="screen-reader-text"> "Highlights from the Teck Resources Limited Earnings Call Transcript"</span></a></p>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/">Highlights from the Teck Resources Limited Earnings Call Transcript</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Teck Resources (TECK), based in Canada, might be the best resources company in the world.  They just had a record-setting quarter, and they are making a ton of money.</p>
+<p>Here are some unedited snippets from their <a href="https://seekingalpha.com/article/4190860-teck-resources-limited-teck-ceo-donald-lindsay-q2-2018-results-earnings-call-transcript" rel="noopener" target="_blank" class="broken_link">latest earnings call</a>:</p>
+<ul>
+<li>Record first half for Teck.</li>
+<li>Fort Hills oil sands achieved commercial production.</li>
+<li>we expect to receive $1.2 billion in cash with the closing of the Waneta Dam transaction.  And that would strengthen our cash balance to about $2.9 billion and our liquidity to close to $7 billion.</li>
+<li>We also only have 220 million of debt maturities prior to 2022</li>
+<li>On Slide 11, I&#8217;ve summarized changes in our cash during the second quarter. We generated $1.1 billion in cash flow from operations,</li>
+<li>Full production at Fort Hills is expected at the beginning of the fourth quarter as well.</li>
+<li>We aim to complete the Highland Valley 2040 pre-feasibility study also in Q4.</li>
+<li>And then we also aim to complete the feasibility study at Zafranal in Peru and to submit the SEIA document in the quarter.</li>
+<li>So there is a lot to look forward to in the next six to 12 months.</li>
+<li>I would be remiss if I did not comment on the risks that have risen in the global economy and the volatility that have caused – results in markets in particular. But I do want to say that demand for our products and the underlying fundamentals of our commodity markets remains strong. </li>
+<li>we have taken significant steps to insulate our Company from commodity price volatility. We have improved operations and reduced unit costs. We&#8217;ve strengthened our balance sheet by reducing debt and we have significant liquidity and strong cash flows. As a result, we are well positioned to navigate this period of uncertainty facing the global market.</li>
+<li>Just a summary statement before we turn to questions. It really was an extraordinary quarter. Earnings itself of $653 million was terrific and it&#8217;s a record earnings for the first half of the yea</li>
+<li>We have had I should say an awful lot of interest in people being our potential partner from around the world and many of them would have already known that this was a possibility and done their numbers.</li>
+<li>Remember, we have about 100 years of resource at QB2.</li>
+<li>As we&#8217;ve said we&#8217;ll have close to $7 billion of liquidity before the end of today.</li>
+<li>Christopher Terry:
+<p>Thanks. And then just the potentially use of cash depending on what that would be from sale down?</p>
+<p>Donald Lindsay:</p>
+<p>We’re very, very good position it&#8217;s an interesting question. As we&#8217;ve said we&#8217;ll have close to $7 billion of liquidity before the end of today. And then they&#8217;ll be some entry fee coming to QB2. So there are number choices first and foremost there&#8217;s always return of capital to shareholders and we&#8217;ll be making that decision at the November Board meeting as our policy describes and that would be a combination of cash dividends and buyback.</p>
+<p>However, if we go out a couple of years at 2020 or 2021 and the full debottlenecking is finished and it’s running with cash costs of C$20 a barrel or lower and running significantly above nameplate capacity. If we don&#8217;t get proper value recognition in our share price then we would look at some other form of transaction or something to ensure the shareholders benefit from the value that&#8217;s been created.   And whether that was some sort of a spin out of a sale or partnering, I don&#8217;t know a lot we&#8217;ll look at it, but we wouldn’t look at it for at least a couple years.</p>
+<p>We need to finish the job right now. It&#8217;s gone really well, as you&#8217;ve seen we&#8217;ve increased our guidance for the year, and we&#8217;ve moved ahead the timetable from when we think it will be running a nameplate capacity. We need to finish the job first and do the debottlenecking next year to take it up even higher. But mid-10 to 2020 we are not getting recognition for it. Yes, we would do something, that&#8217;s our job.</li>
+<li>And just one other factor, I mean there has been no letup in China&#8217;s commitment to environmental standards, much higher environmental standards. And if anything, they&#8217;re getting stricter on that. So that has had a big impact on potential mine and zinc production in China. </li>
+<li>We just believe that given the experience the industry has had over the last 10 to 15 years putting all your eggs in one $5 billion basket isn&#8217;t really the prudent thing to do.</li>
+<li>You know how hard it is to get a hold of a nice clean doable project in a decent geopolitical jurisdiction that has a really long life. Mine life to pay back ratios in excess of 10 or something, so to get a hold of that is really, really tough as just ask any of the other competing companies that are in the industry. It&#8217;s tough to find one and we&#8217;ve got one.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/">Highlights from the Teck Resources Limited Earnings Call Transcript</a> appeared first on <a rel="nofollow" href="https://alexcbilimoria.com">Alex C Bilimoria</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">94</post-id>	</item>
+	</channel>
+</rss>
