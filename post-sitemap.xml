@@ -1,133 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//acbilimoria.github.io/alexcbilimoria.com-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//alexcbilimoria.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/</loc>
-		<lastmod>2019-02-24T05:24:48+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/05/30/hello-world/</loc>
-		<lastmod>2018-05-30T23:47:50+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/08/14/assorted-links-9/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/14/slow-down/</loc>
-		<lastmod>2018-07-15T02:05:27+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/08/14/code-is-antifragile/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/17/focus/</loc>
-		<lastmod>2018-07-17T00:57:33+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/08/15/genetic-testing-and-you/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/19/api-development-additive-not-subtractive/</loc>
-		<lastmod>2018-07-19T22:27:28+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/08/15/assorted-links-10/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/20/always-leave-a-note/</loc>
-		<lastmod>2018-07-20T00:20:35+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/08/16/assorted-links-11/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/</loc>
+		<lastmod>2019-11-16T19:20:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/31/assorted-links-3/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/02/assorted-links-4/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/07/how-i-passed-the-aws-certified-developer-associate-exam/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/07/assorted-links-5/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/08/assorted-links-6/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/09/assorted-links-7/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/10/what-is-the-difference-between-marshaling-and-serialization/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/11/assorted-links-8/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/11/value-investors-are-missing-one-key-skill/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/08/11/ignore-the-bright-and-shiny-objects/</loc>
+		<lastmod>2019-11-16T19:20:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/05/30/hello-world/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/14/slow-down/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/17/focus/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/19/api-development-additive-not-subtractive/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/20/always-leave-a-note/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://acbilimoria.github.io/alexcbilimoria.com-static/wp-content/uploads/2018/07/Arrested_Development-_And_Thats_Why..._You_Always_Leave_a_Note.jpg</image:loc>
+			<image:loc>https://alexcbilimoria.com/wp-content/uploads/2018/07/Arrested_Development-_And_Thats_Why..._You_Always_Leave_a_Note.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/21/a-study-tip-based-on-cognitive-science/</loc>
-		<lastmod>2018-07-21T22:14:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/21/jerry-and-larry-know-how-to-focus/</loc>
-		<lastmod>2018-07-23T16:08:41+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/21/jerry-and-larry-know-how-to-focus/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://acbilimoria.github.io/alexcbilimoria.com-static/wp-content/uploads/2018/07/seinfeld.png</image:loc>
+			<image:loc>https://alexcbilimoria.com/wp-content/uploads/2018/07/seinfeld.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/27/assorted-links/</loc>
-		<lastmod>2018-07-27T01:35:42+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/21/a-study-tip-based-on-cognitive-science/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/27/the-best-study-habits-according-to-science/</loc>
-		<lastmod>2018-07-27T02:47:14+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/27/assorted-links/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/28/assorted-links-2/</loc>
-		<lastmod>2018-07-28T01:45:45+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/27/the-best-study-habits-according-to-science/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/28/u-s-higher-education-headed-in-the-wrong-direction/</loc>
-		<lastmod>2018-07-28T05:46:00+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/28/assorted-links-2/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://alexcbilimoria.com/2018/07/28/u-s-higher-education-headed-in-the-wrong-direction/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://acbilimoria.github.io/alexcbilimoria.com-static/wp-content/uploads/2018/07/college-tuition-inflation.jpg</image:loc>
+			<image:loc>https://alexcbilimoria.com/wp-content/uploads/2018/07/college-tuition-inflation.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/30/aws-certified-developer-associate-2017-study-notes/</loc>
-		<lastmod>2018-07-30T05:45:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/07/31/assorted-links-3/</loc>
-		<lastmod>2018-07-31T05:45:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/02/assorted-links-4/</loc>
-		<lastmod>2018-08-02T02:18:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/07/assorted-links-5/</loc>
-		<lastmod>2018-08-07T02:20:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/07/how-i-passed-the-aws-certified-developer-associate-exam/</loc>
-		<lastmod>2018-08-07T06:21:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/08/assorted-links-6/</loc>
-		<lastmod>2018-08-08T02:21:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/09/assorted-links-7/</loc>
-		<lastmod>2018-08-09T03:03:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/10/highlights-from-the-teck-resources-limited-earnings-call-transcript/</loc>
-		<lastmod>2018-08-10T06:20:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/10/what-is-the-difference-between-marshaling-and-serialization/</loc>
-		<lastmod>2018-08-10T16:16:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/11/assorted-links-8/</loc>
-		<lastmod>2018-08-11T15:54:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/11/ignore-the-bright-and-shiny-objects/</loc>
-		<lastmod>2018-08-11T17:52:59+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/11/value-investors-are-missing-one-key-skill/</loc>
-		<lastmod>2018-08-11T18:01:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/14/assorted-links-9/</loc>
-		<lastmod>2018-08-14T03:15:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/14/code-is-antifragile/</loc>
-		<lastmod>2018-08-14T07:16:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/15/genetic-testing-and-you/</loc>
-		<lastmod>2018-08-15T03:14:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/15/assorted-links-10/</loc>
-		<lastmod>2018-08-15T07:15:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/08/16/assorted-links-11/</loc>
-		<lastmod>2018-09-08T21:28:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://acbilimoria.github.io/alexcbilimoria.com-static/2018/10/05/chaos-engineer-building-confidence-in-system-behavior-through-experiments/</loc>
-		<lastmod>2019-02-24T05:24:48+00:00</lastmod>
+		<loc>https://alexcbilimoria.com/2018/07/30/aws-certified-developer-associate-2017-study-notes/</loc>
+		<lastmod>2019-11-16T19:21:17+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
